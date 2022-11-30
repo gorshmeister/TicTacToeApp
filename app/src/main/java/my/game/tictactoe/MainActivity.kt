@@ -1,4 +1,4 @@
-package com.ljsoft.tictactoe
+package my.game.tictactoe
 
 import android.content.Intent
 import android.os.Build
@@ -8,12 +8,10 @@ import android.view.Window
 import android.view.WindowManager
 import android.view.animation.AnimationUtils
 import androidx.annotation.RequiresApi
-import com.google.android.gms.ads.AdRequest
-import com.google.android.gms.ads.AdView
+import com.game.tictactoe.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
-    private lateinit var mAdView : AdView
     @RequiresApi(Build.VERSION_CODES.LOLLIPOP)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -48,16 +46,6 @@ class MainActivity : AppCompatActivity() {
             finish()
             moveTaskToBack(true)
         }
-
-        // quit ImageView
-        imageViewQuit.setOnClickListener {
-            finish()
-            moveTaskToBack(true)
-        }
-
-        mAdView = findViewById(R.id.adView)
-        val adRequest = AdRequest.Builder().build()
-        mAdView.loadAd(adRequest)
 
     }
 

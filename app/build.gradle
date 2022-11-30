@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 30
     defaultConfig {
-        applicationId "com.ljsoft.tictactoe"
+        applicationId "my.game.tictactoe"
         minSdkVersion 16
         targetSdkVersion 30
         versionCode 1
@@ -32,7 +32,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
     /** admob ads and firebase */
-    implementation 'com.google.android.gms:play-services-ads:19.2.0'
     implementation 'com.google.firebase:firebase-analytics:17.4.3'
 
 }

@@ -1,14 +1,9 @@
 <resources>
     <string name="app_name">Tic Tac Toe</string>
-    <!--admob ads -->
-    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
-    <string name="admob_banner">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="admob_Interstitial">ca-app-pub-3940256099942544/1033173712</string>
 
     <string name="multiplayer">Multiplayer</string>
     <string name="single_player">Single Player</string>
     <string name="reset">Reset</string>
     <string name="you_won">YOU WON</string>
-
 
 </resources>

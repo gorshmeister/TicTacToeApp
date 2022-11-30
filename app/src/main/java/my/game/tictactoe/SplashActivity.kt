@@ -1,12 +1,13 @@
-package com.ljsoft.tictactoe
+package my.game.tictactoe
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.view.Window
 import android.view.WindowManager
 import android.view.animation.AnimationUtils
+import androidx.appcompat.app.AppCompatActivity
+import com.game.tictactoe.R
 import kotlinx.android.synthetic.main.activity_splash.*
 
 class SplashActivity : AppCompatActivity() {
@@ -16,8 +17,10 @@ class SplashActivity : AppCompatActivity() {
 
         window.requestFeature(Window.FEATURE_NO_TITLE)
 
-        window.setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
-                WindowManager.LayoutParams.FLAG_FULLSCREEN)
+        window.setFlags(
+            WindowManager.LayoutParams.FLAG_FULLSCREEN,
+            WindowManager.LayoutParams.FLAG_FULLSCREEN
+        )
 
         setContentView(R.layout.activity_splash)
 
