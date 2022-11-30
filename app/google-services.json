@@ -1,0 +1,185 @@
+{
+  "project_info": {
+    "project_number": "809930087817",
+    "firebase_url": "https://sleeplocks-95c4c.firebaseio.com",
+    "project_id": "sleeplocks-95c4c",
+    "storage_bucket": "sleeplocks-95c4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809930087817:android:d9f0441277ae16ff759558",
+        "android_client_info": {
+          "package_name": "com.ljsoft.game2048"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809930087817-vipik469f7i2025r4rm429qojfi49ejj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5aaeT_LDYOE1K0YlzM_0ABH9Prbbynbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809930087817-vipik469f7i2025r4rm429qojfi49ejj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809930087817:android:f467d39ba899179d759558",
+        "android_client_info": {
+          "package_name": "com.ljsoft.mplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809930087817-vipik469f7i2025r4rm429qojfi49ejj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5aaeT_LDYOE1K0YlzM_0ABH9Prbbynbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809930087817-vipik469f7i2025r4rm429qojfi49ejj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809930087817:android:6e4825a7636be748759558",
+        "android_client_info": {
+          "package_name": "com.ljsoft.mplayer.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809930087817-vipik469f7i2025r4rm429qojfi49ejj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5aaeT_LDYOE1K0YlzM_0ABH9Prbbynbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809930087817-vipik469f7i2025r4rm429qojfi49ejj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809930087817:android:5f5fb181244b1e81759558",
+        "android_client_info": {
+          "package_name": "com.ljsoft.sleeplock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809930087817-vipik469f7i2025r4rm429qojfi49ejj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5aaeT_LDYOE1K0YlzM_0ABH9Prbbynbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809930087817-vipik469f7i2025r4rm429qojfi49ejj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809930087817:android:ca2440073c38baad759558",
+        "android_client_info": {
+          "package_name": "com.ljsoft.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809930087817-vipik469f7i2025r4rm429qojfi49ejj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5aaeT_LDYOE1K0YlzM_0ABH9Prbbynbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809930087817-vipik469f7i2025r4rm429qojfi49ejj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809930087817:android:36a377dfaaaca9e5759558",
+        "android_client_info": {
+          "package_name": "com.ljsoft.tiktoklikesandfollowers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809930087817-vipik469f7i2025r4rm429qojfi49ejj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5aaeT_LDYOE1K0YlzM_0ABH9Prbbynbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809930087817-vipik469f7i2025r4rm429qojfi49ejj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
